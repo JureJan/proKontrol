@@ -1,0 +1,113 @@
+.footer {
+  width: 100vw;
+  background: #000000;
+  color: white;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contactInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.contactDetails {
+  display: flex;
+  gap: 50px;
+}
+
+.contactItem {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.logoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo {
+  width: 527px;
+  height: 162px;
+  object-fit: contain;
+}
+
+.supportText {
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  /* Make the footer stack content vertically */
+  .footer {
+    padding: 30px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  /* Adjust container for better spacing */
+  .container {
+    width: 95%;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Stack contact information */
+  .contactInfo {
+    align-items: center;
+    text-align: center;
+  }
+
+  /* Reduce title size for better readability */
+  .title {
+    font-size: 1.8rem;
+  }
+
+  /* Stack contact details */
+  .contactDetails {
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+  }
+
+  /* Ensure contact items are properly spaced */
+  .contactItem {
+    text-align: center;
+    gap: 5px;
+  }
+
+  /* Reduce logo size to fit smaller screens */
+  .logoContainer {
+    margin-top: 20px;
+  }
+
+  .logo {
+    width: 300px; /* Reduce size */
+    height: auto;
+  }
+
+  .supportText {
+    font-size: 0.8rem;
+  }
+}

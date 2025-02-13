@@ -1,0 +1,90 @@
+.references {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    background: #ffffff;
+    color: #003c64;
+    padding-top: 50px;
+  }
+  
+  .title {
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 60px;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto auto auto;
+    gap: 80px 100px;
+    justify-items: center;
+    align-items: center;
+    width: 90%;
+    max-width: 1600px;
+  }
+  
+  .grid .logoContainer:nth-child(7) {
+    grid-column: 1 / -1;
+    justify-self: center;
+  }
+  
+  .logoContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 150px;
+  }
+  
+  .logo {
+    object-fit: contain;
+    filter: grayscale(100%);
+    transition: transform 0.3s, filter 0.3s;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .logo:hover {
+    transform: scale(1.1);
+    filter: grayscale(0%);
+  }
+  
+  @media (max-width: 768px) {
+    /* Adjust references section height */
+    .references {
+      height: auto;
+      padding: 30px 0;
+    }
+  
+    /* Reduce title size for better readability */
+    .title {
+      font-size: 2.5rem;
+      margin-bottom: 40px;
+    }
+  
+    /* Adjust grid layout to a single column */
+    .grid {
+      grid-template-columns: 1fr;
+      grid-template-rows: auto;
+      gap: 40px;
+      width: 95%;
+    }
+  
+    /* Ensure logos are centered and well-sized */
+    .logoContainer {
+      width: 200px;
+      height: 120px;
+    }
+  
+    /* Ensure logo images fit well */
+    .logo {
+      max-width: 100%;
+      max-height: 100%;
+    }
+  }
+  

@@ -1,0 +1,28 @@
+.companyInfo {
+  width: 100vw;
+  background: #003c64;
+  color: white;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.left, .right {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.heading {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}

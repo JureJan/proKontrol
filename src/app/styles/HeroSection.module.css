@@ -1,0 +1,115 @@
+.heroSection {
+  width: 100vw;
+  background-color: black;
+}
+
+.sectionWrapper {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 100vw;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+/* Image on the Left (Sections 1, 3, 5...) */
+.sectionWrapper:nth-child(odd) .imageColumn {
+  order: -1; /* Forces image to the left */
+}
+
+/* Image on the Right (Sections 2, 4, 6...) */
+.sectionWrapper:nth-child(even) .imageColumn {
+  order: 1; /* Forces image to the right */
+}
+
+/* Image Column */
+.imageColumn {
+  flex: 1;
+  max-width: 50%;
+  display: flex;
+  align-items: stretch;
+}
+
+/* Text Column */
+.textColumn {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0;
+  background-color: black;
+  color: white;
+  width: 100%;
+  max-width: 100vw;
+}
+
+/* Title */
+.titleContainer {
+  width: 100%;
+  background-color: #003A5B;
+  color: white;
+  text-align: left;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+/* Ensure images stick properly */
+.imageColumn img {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+}
+
+/* Text */
+.textContainer {
+  width: 100%;
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+@media (max-width: 768px) {
+  /* Stack all sections vertically */
+  .sectionWrapper {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  /* Ensure images are full width */
+  .imageColumn {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  /* Ensure images scale properly */
+  .imageColumn img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  /* Adjust text column to fit well */
+  .textColumn {
+    max-width: 100%;
+    width: 100%;
+    padding: 20px;
+    text-align: left;
+  }
+
+  /* Make titles and text more readable */
+  .titleContainer {
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+  }
+
+  .textContainer {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 10px;
+  }
+}

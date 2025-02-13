@@ -1,0 +1,16 @@
+.about {
+    background-color: #003c64;
+    color: white;
+    padding: 50px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 30vh;
+  }
+  
+  .container {
+    max-width: 800px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  
