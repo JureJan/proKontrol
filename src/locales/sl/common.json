@@ -1,0 +1,60 @@
+{
+  "about": {
+    "title": "O Nas",
+    "description": "PRO-KONTROL d.o.o. je razmeroma mlado podjetje, vendar pa se naša ekipa ponaša z dolgoletnimi izkušnjami na področju vzdrževanja objektov, gradbeništva in drugih storitev, ki jih ponujamo. S svojim profesionalnim delom in izjemno kratkim odzivnim časom našim strankam nudimo storitve, kot so montaža sončnih elektrarn, višinska dela, elektro storitve, varjenje, vzdrževalna dela, suha gradnja, mizarstvo in popravila. Vabljeni k ogledu naše predstavitve ter naročilu naših storitev – jamčimo vam, da ne boste razočarani."
+  },
+  "companyInfo": {
+    "title": "Podjetje",
+    "name": "PRO-KONTROL d.o.o.",
+    "addressLine1": "Kresniški vrh 49",
+    "addressLine2": "1281 Kresnice",
+    "iban": "TRR: SI56 3300 0001 0254 055",
+    "taxNumber": "Davčna številka: SI 11596759",
+    "registrationNumber": "Matična številka: 8502528000"
+  },
+  "contactForm": {
+    "title": "Kontaktirajte nas",
+    "namePlaceholder": "Vaše ime",
+    "emailPlaceholder": "Vaš e-mail",
+    "messagePlaceholder": "Vaše sporočilo",
+    "submitButton": "Pošlji",
+    "success": "Sporočilo je bilo uspešno poslano!",
+    "error": "Napaka pri pošiljanju. Poskusite znova."
+  },
+  "references": {
+    "title": "Reference in Partnerji",
+    "pering": "Pering",
+    "aam": "AAM",
+    "4seen": "4SEEN",
+    "aami": "AAMI",
+    "lokus": "Lokus",
+    "megagraf": "Megagraf",
+    "artexpo": "Art Expo"
+  },
+  "heroSection1": {
+    "title1": "Sončne Elektrarne",
+    "description1": "Ena izmed naših dejavnosti je montaža sončnih elektrarn. Fotovoltaična elektrarna (tudi sončna elektrarna) izkorišča obnovljivo sončno energijo za proizvodnjo električne energije. Veljajo za ekonomičen, zanesljiv in enostaven vir električne energije, ki temelji na obnovljivem viru – energiji sonca. Elektrarna pretvarja sončno sevanje v električni tok preko solarnih modulov in ga nato preko omrežja dostavlja porabnikom. Povprečna življenjska doba elektrarne znaša 30 let. Ujemite moč sonca in jo pretvorite v okolju prijazno električno energijo.",
+    "title2": "Višinska Dela",
+    "description2": "Včasih je potrebno opraviti delo ali popravilo na mestih, kamor dvižne ploščadi ne sežejo. Takrat pridejo v poštev strokovnjaki, vajeni višinskih del in zahtevnih pogojev dela, ki vključujejo nevarnosti, kot so pomanjkanje kisika, izreden prah, vročina, nevarnost udara strele in druge objektivne nevarnosti. Zaradi dolgoletnih izkušenj v alpinizmu in zahtevnih delovnih pogojih se v takšnih okoljih počutimo kot doma.",
+    "title3": "Elektro Storitve",
+    "description3": "Nudimo vam celovite elektroinštalacijske storitve, kar vključuje izdelavo nove elektroinštalacije ali popravilo obstoječe. Po želji vam zmontiramo tudi hišni alarm in vse gospodinjske aparate, ki zahtevajo stalno električno priključitev.",
+    "title4": "Varjenje",
+    "description4": "Izvajamo popravila različnih kovinskih elementov in izdelkov ter izdelujemo produkte iz barvnih in nebarvnih kovin po vaših željah. Nudimo tudi varjenje na terenu, kar pomeni, da pridemo na vašo lokacijo za izvedbo popravil. V naši ponudbi so storitve varjenja jekla, aluminija in nerjavečega jekla."
+  },
+  "heroSection2": {
+    "title1": "Popravila",
+    "description1": "Na prvi pogled ta storitev spominja na upravljanje zgradb, vendar je veliko bolj prijazna in pregledna. Preprosto pomeni, da smo na voljo 24/7 za stranke, s katerimi imamo sklenjeno pogodbo. Pogodba ni obvezna in zagotavlja strankam zanesljivo kontaktno osebo, kadar pride do težav in je potrebna hitra intervencija.",
+    "title2": "Vzdrževalna Dela",
+    "description2": "Ena izmed naših dejavnosti so tudi manjša hišna popravila, ki vključujejo notranja in zunanja vzdrževalna dela. Poleg mizarstva nudimo tudi slikopleskarska dela, polaganje keramike in kamna ter različne vrste talnih oblog. Zamenjamo ali popravimo kljuke na vratih in oknih, stare vodovodne pipe in odpravimo puščanje sifonov. Ste izgubili ključe? Ni problema. Vaš dom odklenemo brez poškodb.",
+    "title3": "Suha Gradnja",
+    "description3": "Material prihodnosti. Gips je prijazen človeku, saj ima enak pH kot človeško telo. Suhomontažna gradnja predelnih sten, stropov ali mansard postaja vse bolj priljubljena zaradi hitrosti izdelave, ugodne cene in enostavne izvedbe. Suha gradnja omogoča skoraj neomejene možnosti oblikovanja. Z veseljem se prilagajamo željam naročnikov – bolj kot je naročilo zahtevno, večji izziv predstavlja.",
+    "title4": "Mizarstvo",
+    "description4": "Nudimo izdelavo pohištva po meri. Beseda 'tipsko' nam je tuja. Izdelujemo spalnice, predsobe, otroške sobe, delovne prostore in drugo pohištvo po željah naročnika. Montiramo tudi že kupljeno pohištvo ter odpeljemo staro pohištvo na deponijo."
+  },
+  "mapSection": {
+    "title": "Najdete nas tukaj"
+  },
+  "footer": {
+    "title": "Kontakt"
+  }
+}

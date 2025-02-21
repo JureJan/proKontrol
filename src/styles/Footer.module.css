@@ -1,5 +1,5 @@
 .footer {
-  width: 100vw;
+  width: auto;
   background: #000000;
   color: white;
   padding: 40px 0;
@@ -51,10 +51,6 @@
   object-fit: contain;
 }
 
-.supportText {
-  margin-top: 10px;
-  font-size: 0.9rem;
-}
 
 @media (max-width: 768px) {
   /* Make the footer stack content vertically */

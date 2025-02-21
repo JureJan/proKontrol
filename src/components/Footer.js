@@ -1,13 +1,16 @@
 // src/app/components/Footer.js
 import styles from "../styles/Footer.module.css";
 import Image from "next/image";
+import { useTranslation } from "react-i18next";
+
 
 export default function Footer() {
+  const { t } = useTranslation();
   return (
     <footer className={styles.footer}>
       <div className={styles.container}>
         <div className={styles.contactInfo}>
-          <h2 className={styles.title}>Kontakt</h2>
+          <h2 className={styles.title}>{t("footer.title")}</h2>
           <div className={styles.contactDetails}>
             <div className={styles.contactItem}>
               <p>Robert Držan</p>
@@ -23,7 +26,6 @@ export default function Footer() {
         </div>
         <div className={styles.logoContainer}>
           <Image src="/images/logoFooter.png" alt="AAMI Corporation Logo" width={527} height={162} className={styles.logo} />
-          <p className={styles.supportText}>OFFICIAL TECHNICAL SUPPORT</p>
         </div>
       </div>
     </footer>

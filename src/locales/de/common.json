@@ -1,0 +1,60 @@
+{
+  "about": {
+    "title": "Über Uns",
+    "description": "PRO-KONTROL d.o.o. ist ein relativ junges Unternehmen, aber unser Team verfügt über langjährige Erfahrung in den Bereichen Gebäudewartung, Bauwesen und anderen angebotenen Dienstleistungen. Mit unserer professionellen Arbeit und extrem schnellen Reaktionszeit bieten wir unseren Kunden Dienstleistungen wie die Installation von Solarkraftwerken, Höhenarbeiten, Elektroinstallationen, Schweißarbeiten, Wartungsarbeiten, Trockenbau, Tischlerei und Reparaturen an. Wir laden Sie ein, unsere Präsentation zu betrachten und unsere Dienstleistungen in Anspruch zu nehmen – wir garantieren, dass Sie nicht enttäuscht sein werden."
+  },
+  "companyInfo": {
+    "title": "Unternehmen",
+    "name": "PRO-KONTROL d.o.o.",
+    "addressLine1": "Kresniški vrh 49",
+    "addressLine2": "1281 Kresnice",
+    "iban": "IBAN: SI56 3300 0001 0254 055",
+    "taxNumber": "Steuernummer: SI 11596759",
+    "registrationNumber": "Registrierungsnummer: 8502528000"
+  },
+  "contactForm": {
+    "title": "Kontaktieren Sie Uns",
+    "namePlaceholder": "Ihr Name",
+    "emailPlaceholder": "Ihre E-Mail",
+    "messagePlaceholder": "Ihre Nachricht",
+    "submitButton": "Senden",
+    "success": "Die Nachricht wurde erfolgreich gesendet!",
+    "error": "Fehler beim Senden. Bitte versuchen Sie es erneut."
+  },
+  "references": {
+    "title": "Referenzen und Partner",
+    "pering": "Pering",
+    "aam": "AAM",
+    "4seen": "4SEEN",
+    "aami": "AAMI",
+    "lokus": "Lokus",
+    "megagraf": "Megagraf",
+    "artexpo": "Art Expo"
+  },
+  "heroSection1": {
+    "title1": "Solarkraftwerke",
+    "description1": "Eine unserer Dienstleistungen ist die Installation von Solarkraftwerken. Ein Photovoltaikkraftwerk (auch Solarkraftwerk genannt) nutzt erneuerbare Sonnenenergie zur Stromerzeugung. Diese Anlagen gelten als wirtschaftlich, zuverlässig und eine einfache Energiequelle, die auf einer erneuerbaren Ressource – der Energie der Sonne – basiert. Die Anlage wandelt Sonnenstrahlen mithilfe von Solarmodulen in elektrischen Strom um und liefert diesen über das Stromnetz an Verbraucher weiter. Die durchschnittliche Lebensdauer einer solchen Anlage beträgt 30 Jahre. Nutzen Sie die Kraft der Sonne und wandeln Sie sie in umweltfreundliche Energie um.",
+    "title2": "Höhenarbeiten",
+    "description2": "Manchmal müssen Arbeiten oder Reparaturen an Orten durchgeführt werden, die mit Hebebühnen nicht erreichbar sind. Hier kommen Fachleute ins Spiel, die an Höhenarbeiten gewöhnt sind und mit schwierigen Arbeitsbedingungen umgehen können. Dazu gehören Gefahren wie Sauerstoffmangel, Staub, Hitze, Blitzschlag und andere objektive Risiken. Dank jahrelanger Erfahrung im Alpinismus fühlen wir uns in solchen Umgebungen wie zu Hause.",
+    "title3": "Elektroarbeiten",
+    "description3": "Wir bieten umfassende Elektroinstallationsdienste an, einschließlich der Neuinstallation von Elektrik oder der Reparatur bestehender Systeme. Auf Wunsch installieren wir auch Hausalarme und alle fest angeschlossenen Haushaltsgeräte.",
+    "title4": "Schweißarbeiten",
+    "description4": "Wir führen Reparaturen an verschiedenen Metallelementen und Produkten durch und fertigen auf Wunsch Artikel aus Bunt- und Nichtbuntmetallen an. Außerdem bieten wir Schweißarbeiten vor Ort an, sodass wir Reparaturen direkt bei Ihnen zu Hause oder an einem anderen gewünschten Ort durchführen können. Unsere Schweißdienste umfassen das Schweißen von Stahl, Aluminium und Edelstahl."
+  },
+  "heroSection2": {
+    "title1": "Reparaturen",
+    "description1": "Diese Dienstleistung ähnelt auf den ersten Blick dem Gebäudemanagement, ist jedoch viel kundenfreundlicher und transparenter. Wir stehen unseren Vertragspartnern rund um die Uhr zur Verfügung. Der Vertrag ist nicht verpflichtend und dient lediglich dazu, sicherzustellen, dass der Kunde bei Problemen eine verlässliche Kontaktperson hat, die schnelle Hilfe leisten kann.",
+    "title2": "Wartungsarbeiten",
+    "description2": "Wir bieten auch kleinere Haushaltsreparaturen an, die sowohl Innen- als auch Außenwartungsarbeiten umfassen. Neben Tischlerarbeiten bieten wir auch Malerarbeiten, das Verlegen von Keramik und Stein sowie verschiedene Bodenbeläge an. Wir reparieren oder ersetzen Tür- und Fenstergriffe, alte Wasserhähne und beseitigen undichte Siphons. Haben Sie Ihre Schlüssel verloren? Kein Problem – wir öffnen Ihr verschlossenes Haus oder Ihre Wohnung ohne Schäden.",
+    "title3": "Trockenbau",
+    "description3": "Das Material der Zukunft. Gips ist ein für den Menschen freundliches Material, da es denselben pH-Wert wie der menschliche Körper hat. Der Trockenbau von Trennwänden, Decken oder Dachausbauten erfreut sich wachsender Beliebtheit, insbesondere aufgrund der schnellen Bauweise, des günstigen Preises und der einfachen Ausführung. Trockenbau bietet nahezu unbegrenzte Gestaltungsmöglichkeiten. Wir passen uns gerne den Wünschen unserer Kunden an – je anspruchsvoller die Bestellung, desto größer die Herausforderung für uns.",
+    "title4": "Tischlerei",
+    "description4": "Wir fertigen maßgeschneiderte Möbel an. Das Wort 'Standard' ist uns fremd. Wir stellen Schlafzimmer, Flure, Kinderzimmer, Arbeitsräume und andere Möbel nach Kundenwunsch her. Auf Wunsch montieren wir auch bereits gekaufte Möbel und entsorgen alte Möbel fachgerecht."
+  },
+  "mapSection": {
+    "title": "Hier finden Sie uns"
+  }, 
+  "footer": {
+    "title": "Kontakt"
+  }
+}

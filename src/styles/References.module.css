@@ -4,11 +4,12 @@
     align-items: center;
     justify-content: flex-start;
     text-align: center;
-    width: 100vw;
+    width: auto;
     height: 100vh;
     background: #ffffff;
     color: #003c64;
-    padding-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
   }
   
   .title {

@@ -1,0 +1,60 @@
+{
+  "about": {
+    "title": "Chi Siamo",
+    "description": "PRO-KONTROL d.o.o. è un'azienda relativamente giovane, ma il nostro team vanta molti anni di esperienza nella manutenzione degli edifici, nell'edilizia e in altri servizi offerti. Grazie al nostro lavoro professionale e ai tempi di risposta estremamente rapidi, offriamo ai nostri clienti servizi come l'installazione di impianti solari, lavori in altezza, servizi elettrici, saldatura, manutenzione, costruzione a secco, falegnameria e riparazioni. Ti invitiamo a consultare la nostra presentazione e ad ordinare i nostri servizi – ti garantiamo che non rimarrai deluso."
+  },
+  "companyInfo": {
+    "title": "Azienda",
+    "name": "PRO-KONTROL d.o.o.",
+    "addressLine1": "Kresniški vrh 49",
+    "addressLine2": "1281 Kresnice",
+    "iban": "IBAN: SI56 3300 0001 0254 055",
+    "taxNumber": "Partita IVA: SI 11596759",
+    "registrationNumber": "Numero di registrazione: 8502528000"
+  },
+  "contactForm": {
+    "title": "Contattaci",
+    "namePlaceholder": "Il tuo nome",
+    "emailPlaceholder": "La tua email",
+    "messagePlaceholder": "Il tuo messaggio",
+    "submitButton": "Invia",
+    "success": "Messaggio inviato con successo!",
+    "error": "Errore nell'invio. Per favore riprova."
+  },
+  "references": {
+    "title": "Referenze e Partner",
+    "pering": "Pering",
+    "aam": "AAM",
+    "4seen": "4SEEN",
+    "aami": "AAMI",
+    "lokus": "Lokus",
+    "megagraf": "Megagraf",
+    "artexpo": "Art Expo"
+  },
+  "heroSection1": {
+    "title1": "Impianti Solari",
+    "description1": "Una delle nostre attività è l'installazione di impianti solari. Un impianto fotovoltaico (noto anche come impianto solare) sfrutta l'energia rinnovabile del sole per generare elettricità. Sono considerati una fonte di energia economica, affidabile e semplice, basata su una risorsa rinnovabile – l'energia solare. L'impianto converte i raggi solari in corrente elettrica tramite moduli solari, inviandola poi ai consumatori tramite la rete elettrica. La durata media di un impianto è di 30 anni. Cattura la potenza del sole e trasformala in energia ecologica.",
+    "title2": "Lavori in Altezza",
+    "description2": "A volte è necessario eseguire lavori o riparazioni in luoghi inaccessibili alle piattaforme di sollevamento. Qui entrano in gioco i professionisti abituati ai lavori in altezza e alle difficili condizioni di lavoro, come la mancanza di ossigeno, la polvere, il calore, il rischio di fulmini e altri pericoli oggettivi. Con anni di esperienza nell'alpinismo e nei lavori in condizioni difficili, ci sentiamo come a casa in questi ambienti.",
+    "title3": "Servizi Elettrici",
+    "description3": "Offriamo un servizio completo di installazioni elettriche, che comprende la realizzazione di nuovi impianti o la riparazione di quelli esistenti. Su richiesta, installiamo anche allarmi domestici e tutti gli elettrodomestici permanentemente collegati alla corrente.",
+    "title4": "Saldatura",
+    "description4": "Eseguiamo riparazioni di vari elementi e prodotti metallici e realizziamo articoli in metalli ferrosi e non ferrosi secondo le vostre esigenze. Offriamo anche servizi di saldatura sul posto, venendo direttamente a casa vostra o in qualsiasi altra posizione per eseguire le riparazioni necessarie. I nostri servizi di saldatura includono acciaio, alluminio e acciaio inox."
+  },
+  "heroSection2": {
+    "title1": "Riparazioni",
+    "description1": "Questo servizio, a prima vista, può sembrare simile alla gestione degli edifici, ma è molto più trasparente e orientato al cliente. Siamo disponibili 24/7 per i nostri clienti con un contratto in essere. Il contratto non è vincolante e serve solo per garantire al cliente un contatto affidabile in caso di emergenza.",
+    "title2": "Lavori di Manutenzione",
+    "description2": "Offriamo anche piccoli lavori di riparazione domestica che riguardano sia la manutenzione interna che quella esterna della casa. Oltre ai servizi di falegnameria, offriamo pittura, posa di ceramica e pietra, e tutti i tipi di pavimenti. Ripariamo o sostituiamo maniglie di porte e finestre, rubinetti usurati e risolviamo le perdite dei sifoni. Hai perso le chiavi? Nessun problema, possiamo aprire la tua casa o il tuo appartamento senza causare danni.",
+    "title3": "Costruzione a Secco",
+    "description3": "Il materiale del futuro. Il gesso è un materiale rispettoso dell'uomo, avendo lo stesso pH del corpo umano. La costruzione a secco di pareti divisorie, soffitti o mansarde sta diventando sempre più popolare grazie alla rapidità di esecuzione, al costo ridotto e alla semplicità di installazione. La costruzione a secco offre possibilità illimitate di progettazione. Ci adattiamo volentieri alle esigenze dei nostri clienti – più il progetto è impegnativo, più è stimolante per noi.",
+    "title4": "Falegnameria",
+    "description4": "Offriamo la produzione di mobili su misura. La parola 'standard' non fa parte del nostro vocabolario. Realizziamo camere da letto, ingressi, camerette, uffici e altri mobili secondo le specifiche richieste dai clienti. Su richiesta, montiamo anche mobili già acquistati e smaltiamo quelli vecchi in discarica."
+  },
+  "mapSection": {
+    "title": "Ci Trovi Qui"
+  },
+"footer": {
+  "title": "Contatto"
+}
+}

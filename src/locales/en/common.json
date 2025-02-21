@@ -1,0 +1,60 @@
+{
+  "about": {
+    "title": "About Us",
+    "description": "PRO-KONTROL d.o.o. is a relatively young company, but our team has many years of experience in building maintenance, construction, and other services we offer. With our professional work and extremely short response time, we provide services such as solar panel installation, height work, electrical services, welding, maintenance work, drywall construction, carpentry, and repairs. Feel free to explore our presentation and request our services – we guarantee you won't be disappointed."
+  },
+  "companyInfo": {
+    "title": "Company",
+    "name": "PRO-KONTROL d.o.o.",
+    "addressLine1": "Kresniški vrh 49",
+    "addressLine2": "1281 Kresnice",
+    "iban": "IBAN: SI56 3300 0001 0254 055",
+    "taxNumber": "Tax Number: SI 11596759",
+    "registrationNumber": "Registration Number: 8502528000"
+  },
+  "contactForm": {
+    "title": "Contact Us",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Your Email",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Send",
+    "success": "Message sent successfully!",
+    "error": "Failed to send. Please try again."
+  },
+  "references": {
+    "title": "References & Partners",
+    "pering": "Pering",
+    "aam": "AAM",
+    "4seen": "4SEEN",
+    "aami": "AAMI",
+    "lokus": "Lokus",
+    "megagraf": "Megagraf",
+    "artexpo": "Art Expo"
+  },
+  "heroSection1": {
+    "title1": "Solar Power Plants",
+    "description1": "One of our activities is the installation of solar power plants. A photovoltaic power plant (also known as a solar power plant) utilizes renewable solar energy to generate electricity. It is considered an economical, reliable, and simple source of electricity, based on the renewable energy of the sun. The plant converts solar radiation into electric current through solar modules and then distributes it through the grid to consumers. The average lifespan of a plant is 30 years. Harness the power of the sun and convert it into eco-friendly electricity.",
+    "title2": "Height Work",
+    "description2": "Sometimes it's necessary to perform work or repairs in places where lifting platforms can't reach. This is where specialized workers accustomed to heights and challenging working conditions step in, including dangers such as oxygen deficiency, extreme dust, heat, lightning strikes, and other objective hazards. Thanks to years of experience in mountaineering and difficult working conditions, we feel at home in such environments.",
+    "title3": "Electrical Services",
+    "description3": "We offer comprehensive electrical services, including new installations or repairs of existing systems. We can also install home alarms and all household appliances that require a constant electrical connection.",
+    "title4": "Welding",
+    "description4": "We carry out repairs of various metal elements and products, as well as produce custom-made items from colored and non-colored metals according to your wishes. We also provide on-site welding services, meaning we can come to your home or another location for repairs. Our services include welding of steel, aluminum, and stainless steel."
+  },
+  "heroSection2": {
+    "title1": "Repairs",
+    "description1": "At first glance, this service resembles facility management but is much more customer-friendly and transparent. It simply means we are available 24/7 for clients with whom we have a contract. The contract is non-binding and serves to provide customers with a reliable point of contact when something goes wrong and fast intervention is needed.",
+    "title2": "Maintenance Work",
+    "description2": "One of our activities is also small household repairs, including both internal and external maintenance tasks. Besides carpentry, we also offer painting, tiling, stone installation, and various types of flooring installation. We can repair or replace door and window handles, old water taps, and fix leaking siphons. Lost your keys? No problem. We can unlock your home without causing damage.",
+    "title3": "Drywall Construction",
+    "description3": "The material of the future. Gypsum is friendly to humans because it shares the same pH level. Drywall partition walls, ceilings, or attic installations are becoming increasingly popular due to their speed of installation, affordability, and simplicity. Drywall allows for virtually unlimited design possibilities. We are happy to adapt to our clients' needs – the more complex the order, the greater the challenge.",
+    "title4": "Carpentry",
+    "description4": "We offer custom furniture production. The term 'standard' is foreign to us. We create bedrooms, hallways, children’s rooms, home offices, and other custom-made furniture tailored to the client’s wishes. We also install pre-purchased furniture and can dispose of your old furniture."
+  },
+  "mapSection": {
+    "title": "Find Us Here"
+  },
+  "footer": {
+    "title": "Contact"
+  }
+}

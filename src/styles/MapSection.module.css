@@ -1,6 +1,6 @@
 /* src/app/styles/MapSection.module.css */
 .mapSection {
-  width: 100vw;
+  width: auto;
   height: 60vh;
   display: flex;
   justify-content: center;
