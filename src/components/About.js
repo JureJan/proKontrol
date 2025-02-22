@@ -9,7 +9,7 @@ export default function About() {
     <section className={styles.about}>
       <div className={styles.container}>
         <p>
-          <strong>{t("companyName")}</strong> {t("about.description")}
+          <strong>{t("")}</strong> {t("about.description")}
         </p>
       </div>
     </section>

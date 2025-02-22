@@ -26,13 +26,13 @@ export default function Header() {
 
       {/* Social Media Icons */}
       <div className={styles.icons}>
-        <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.facebook.com/people/Pro-Kontrol/100083332689401/" target="_blank" rel="noopener noreferrer">
           <Image src="/images/fb.png" alt="Facebook" width={40} height={40} className={styles.icon} />
         </a>
-        <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/peter-lederer-84589211a/?originalSubdomain=si" target="_blank" rel="noopener noreferrer">
           <Image src="/images/ln.png" alt="LinkedIn" width={40} height={40} className={styles.icon} />
         </a>
-        <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/prokontroldoo/" target="_blank" rel="noopener noreferrer">
           <Image src="/images/ig.png" alt="Instagram" width={40} height={40} className={styles.icon} />
         </a>
       </div>
