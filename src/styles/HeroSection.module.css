@@ -46,13 +46,13 @@
 
 /* Title */
 .titleContainer {
-  width: 95%;
+  width: 100%;
   background-color: #003A5B;
   color: white;
   text-align: left;
   font-size: 24px;
   font-weight: bold;
-  padding: 20px;
+  padding: 10px;
 }
 
 /* Ensure images stick properly */
@@ -68,7 +68,8 @@
   text-align: left;
   font-size: 18px;
   line-height: 1.6;
-  padding: 20px;
+  padding-left: 30px;
+
 }
 
 @media (max-width: 768px) {
